@@ -1,0 +1,1 @@
+mix.split("").filter((e) => !isNaN(e))

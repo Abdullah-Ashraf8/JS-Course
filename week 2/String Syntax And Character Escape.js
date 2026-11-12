@@ -1,0 +1,1 @@
+console.log("\'I'm in\n\\\\\nlove \\\\ \"\"\" \'\'\'\n++ With ++\n\\\"\"\"\\\"\"\"\ \n\"\"JavaScript\"\"\''")
